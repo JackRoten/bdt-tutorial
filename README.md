@@ -7,3 +7,6 @@ Hands-on boosted decision tree tutorial (using [XGBoost](https://xgboost.readthe
 ## Authors
 
 Primary Author: [Katherine Woodruff](https://tele.fnal.gov/cgi-bin/telephone.script?type=name_last&accuracy=contains&string=WOODRUFF)
+
+Author of Forked Repo: Jack Roten
+
